@@ -1,0 +1,59 @@
+{
+  "basics": {
+    "name": "c.priuyadharshini",
+    "label": "",
+    "picture": "",
+    "email": "priyaofficial2602@gmail.com",
+    "phone": "1926192619.",
+    "degree": "b.sc.computer science",
+    "website": "www.priya143.com",
+  }
+|    "location": {
+      "address": "11/2b,chellam nagar 1st street",
+      "postalCode": "641687",
+      "city": "tirupur",
+      "countryCode": "INDIA",
+      "region": "hindu",
+  },
+ 
+  ],
+ 
+  ],
+  "education": [
+    {
+      "institution": "LRG government arts college for women",
+      "area": "palladam road ,tirupur",
+      "studyType": "computer sciece",
+      
+      "gpa": "",
+      
+        
+      
+    }
+  ],
+  
+  
+  "skills": [
+    {
+      "name": "programming language",
+      "level": "2",
+      "keywords": [
+        "python"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "tamil",
+      "fluency": "tamil"
+    }
+  ],
+  "interests": [
+    {
+      "name": "dance",
+      "keywords": [
+        "Keywords under this category bharathanatiyam"
+      ]
+    }
+  ]
+}
