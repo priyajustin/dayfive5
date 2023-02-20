@@ -1,0 +1,13 @@
+var details={"name":"c.priyadharshini","age":"20","year":"2023","education":"b.sc computerscience"};
+for(var i=0;i<details.length;i++){
+    console.log(a);
+}
+for(var a in details){
+    console.log(a,details[a]);
+}
+for(var a of details){
+    console.log(a);
+}
+for (var a Each details){
+    console.log(a);
+}
